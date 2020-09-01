@@ -69,3 +69,8 @@ video {
   75%  {left:0px; top:200px;}
   100% {left:0px; top:0px;}
 }
+
+img.ngr {
+width:150;
+height:70;
+}
